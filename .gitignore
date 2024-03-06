@@ -19,6 +19,8 @@ main.exe
 main.spec
 spec.txt
 
+bombzoo_*.yaml
+shinhan_*.yaml
 
 main_ascycio.py
 utility_asycio.py
