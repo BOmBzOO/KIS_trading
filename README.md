@@ -1,14 +1,6 @@
 # 한국투자증권 API 사용
 한국투자증권 API사용
 
-
-## Preview
-##### 실행화면
-![mainwindow](./sample_img/creon_datareader_v1_0.gif)
-##### 분 단위 데이터 저장 형식 (DB Browser for SQLite 실행 화면)
-![minute](./sample_img/sample_db.PNG)
-date를 포함한 모든 값은 integer입니다.
-
 ## 폴더 생성필요
 
 1. CONFIG_FILES 생성 후
