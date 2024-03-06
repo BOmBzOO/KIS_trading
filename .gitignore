@@ -15,14 +15,16 @@ config/config.json
 dist/
 build/
 
+
 main.exe
 main.spec
 spec.txt
 
 bombzoo_*.yaml
 shinhan_*.yaml
+bombzoo_63551130_live.yaml
 
-main_ascycio.py
+main_asycio.py
 utility_asycio.py
 info_newsy.json
 
