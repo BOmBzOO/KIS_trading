@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# data files
+db/
+
+# log files
+log/
+
+config/config.json
+
+# build files
+dist/
+build/
+
+main.exe
+main.spec
+spec.txt
+
+
+main_ascycio.py
+utility_asycio.py
+info_newsy.json
+
+ID_ACCOUNT/
+CONFIG_FILES/
+CONFIG_FILES_copy/

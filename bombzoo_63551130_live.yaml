@@ -1,0 +1,19 @@
+
+#/.... LIVE Account .../
+#################################################################
+
+NAME: "bombzoo_63551130_live"
+APP_KEY: "PSrIviUF1bKcn32I1iuUvEwk3bmNTkhzw5sD"
+APP_SECRET: "x1UW0VX/kRtabmtm3lk2UjxlzCaaTqYjW6YAYeuSybvUq/ElUZi0F/A/ueA2CyI8VGKtSwlUWVqmVlUMrTWsRMc3WauuUP3l+HpxSw1m0jC7An6puACNctzKg97ti1krw3UXNhoq3uCPjMOjYbbGO/OjKvL4dkhX/Jf837Axw0pOU4phw1U="
+CANO: "63551130" #계좌번호 앞 8자리
+ACNT_PRDT_CD: "01" #계좌번호 뒤 2자리
+ACNT_TYPE: "live"
+URL_BASE: "https://openapi.koreainvestment.com:9443" #실전계좌
+SOCKET_URL: "ws://ops.koreainvestment.com:21000" # 실전계좌
+HTS_ID: "bombzoo" # HTS_ID
+# FILE_STOCK_INFO: "./stock_info.json" # FILE_STOCK_INFO
+
+#디스코드 웹훅 URL
+# DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1124241629952364566/phiJ3kbsWS3XDN2KAVWBIU-0JUh4qkgYTXWwN2oCgTzuNdWcpDsxntEvAAxGe79Z1tOK" # Paper Trading
+DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1124000713798864896/3Z_MEAm3Qhc6DKKPwBajBK7DfCv0wZJdmw9VVaZeKIPRnqqnfPBRiSVfEetv2vLamu1-" # Live_01 63551130
+# DISCORD_WEBHOOK_URL: "https://discordapp.com/api/webhooks/1011512815133139067/vqDYjxqpxTekMUmGNfuBdVQjnKzXE3blU9xLY337H5xWTePlBaSQxVxwFXzCuPviIjS_" # Live_ISA 63551131

@@ -1,0 +1,7 @@
+{
+	"NEWSY_ID": "id",
+	"NEWSY_PWD": "passwd",
+	"NEWSY_PORT_NUM": "A403232B",
+    "NEWSY_LOGIN_PATH": "https://intro.newsystock.com/login/",
+    "NEWSY_PORT_PATH": "https://genport.newsystock.com/GenPro/PortManage.aspx"
+}
