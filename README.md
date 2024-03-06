@@ -6,7 +6,7 @@
 1. CONFIG_FILES 생성 후
 - infomation.yaml
 
-### /.... PAPER Account .../
+#### .... PAPER Account ...
 ```
 NAME: "gildong_509543433_paper"
 APP_KEY: "PSaOefdskaflsdjffkds;lafkds;lfkrruFcN7mgHgrYuus"
@@ -21,7 +21,7 @@ HTS_ID: "hts_id" # HTS_ID
 #디스코드 웹훅 URL
 DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1124241654352364566/phiJ3kbfdsfksdl;fksd;lWBfsk;arke;lrgsdlkrjeoliwurewoijf79Z1tOK" # Paper Trading
 ```
-### /.... Live Account .../
+#### .... Live Account ...
 ```
 NAME: "gildong_50943433_live"
 APP_KEY: "PSaOefdskaflsdjflkgjalerruFcN7mgHgrYuus"
